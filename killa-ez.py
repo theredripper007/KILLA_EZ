@@ -67,14 +67,8 @@ def creds():
     print(f'''{Fore.MAGENTA}
 CREDITS:
 - Developed by:
-  [Spyk3r]
-    Discord: ! Spyk3r#0614
-    Twitter: https://twitter.com/_Spyk33r_
-    GitHub: https://github.com/Spyk3r
-  [Euronymou5]
-    Discord: Euronymou5#3155
-    Twitter: https://twitter.com/Euronymou51
-    GitHub: https://github.com/Euronymou5
+  [$] killa
+  [$] daisy
   ''')
     input('\n[~] Press Enter to continue...')
     menu()
